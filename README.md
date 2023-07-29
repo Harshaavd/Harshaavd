@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh gupta
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
